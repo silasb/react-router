@@ -1,6 +1,9 @@
 {
+  "publishConfig": {
+    "registry": "http://npm.dev.oclc.org:4873"
+  },
   "name": "react-router",
-  "version": "2.7.0",
+  "version": "1.0.0-OCLC",
   "description": "A complete routing library for React",
   "files": [
     "*.md",
