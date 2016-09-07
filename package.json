@@ -3,7 +3,7 @@
     "registry": "http://npm.dev.oclc.org:4873"
   },
   "name": "react-router",
-  "version": "1.0.1-OCLC",
+  "version": "2.7.1-OCLC",
   "description": "A complete routing library for React",
   "files": [
     "*.md",
@@ -30,6 +30,7 @@
     "test-node": "cross-env NODE_ENV=test mocha --compilers js:babel-register tests.node.js"
   },
   "authors": [
+    "Silas Baronda",
     "Ryan Florence",
     "Michael Jackson"
   ],
