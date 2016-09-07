@@ -3,7 +3,7 @@
     "registry": "http://npm.dev.oclc.org:4873"
   },
   "name": "react-router",
-  "version": "2.7.1-OCLC",
+  "version": "2.8.0",
   "description": "A complete routing library for React",
   "files": [
     "*.md",
